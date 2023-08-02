@@ -8,7 +8,7 @@ const devOnlyPlugins = [getStartedPlugin()]
 
 export default defineConfig({
   name: 'default',
-  title: 'hotpink-stinkbug',
+  title: 'Fietsradam-Admin',
 
   projectId: 'ifs9k9rj',
   dataset: 'production',

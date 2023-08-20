@@ -48,8 +48,13 @@ export default {
     },
     {
       name: 'image',
-      type: 'image',
+      type: 'array',
       title: 'Image',
+      of: [
+        {
+          type: 'image',
+        }
+      ]
     },
     {
       name: 'attributes',

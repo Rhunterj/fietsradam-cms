@@ -24,6 +24,16 @@ export default {
           title: 'Footer Disclaimer',
         },
         {
+          name: 'footerImages',
+          type: 'array',
+          title: 'Footer images',
+          of: [
+            {
+              type: 'image',
+            },
+          ],
+        },
+        {
           name: 'footerLinks',
           type: 'array',
           title: 'Footer Links',

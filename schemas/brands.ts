@@ -1,30 +1,47 @@
 export default [
   {
     title: 'bohlt',
-    value: 'bohtt',
+    value: 'bohlt',
+    icon: '/icons/sportief.svg',
   },
   {
     title: 'kalkhoff',
     value: 'kalkhoff',
+    icon: '/icons/sportief.svg',
   },
   {
     title: 'cortina',
     value: 'cortina',
+    icon: '/icons/sportief.svg',
   },
   {
     title: 'beixo',
     value: 'beixo',
+    icon: '/icons/sportief.svg',
   },
   {
     title: 'vogue',
     value: 'vogue',
+    icon: '/icons/sportief.svg',
   },
   {
     title: 'roxx',
     value: 'roxx',
+    icon: '/icons/sportief.svg',
   },
   {
     title: 'knaap',
     value: 'knaap',
+    icon: '/icons/sportief.svg',
+  },
+  {
+    title: 'fatbike',
+    value: 'fatbike',
+    icon: '/icons/fatbike.svg',
+  },
+  {
+    title: 'step',
+    value: 'step',
+    icon: '/icons/step.svg',
   },
 ]

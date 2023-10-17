@@ -44,4 +44,14 @@ export default [
     value: 'step',
     icon: '/icons/step.svg',
   },
+  {
+    title: 'batavus',
+    value: 'batavus',
+    icon: '/icons/sportief.svg',
+  },
+  {
+    title: 'sparta',
+    value: 'sparta',
+    icon: '/icons/sportief.svg',
+  },
 ]

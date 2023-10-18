@@ -54,4 +54,9 @@ export default [
     value: 'sparta',
     icon: '/icons/sportief.svg',
   },
+  {
+    title: 'diablo',
+    value: 'diablo',
+    icon: '/icons/sportief.svg',
+  },
 ]

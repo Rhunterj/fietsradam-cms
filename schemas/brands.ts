@@ -59,4 +59,9 @@ export default [
     value: 'diablo',
     icon: '/icons/sportief.svg',
   },
+  {
+    title: 'emq',
+    value: 'emq',
+    icon: '/icons/sportief.svg',
+  },
 ]

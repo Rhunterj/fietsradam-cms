@@ -34,9 +34,4 @@ export default [
     value: 'step',
     icon: '/icons/step.svg',
   },
-  {
-    title: "plezier",
-    value: "plezier",
-    icon: '/icons/stads.svg',
-  }
 ]

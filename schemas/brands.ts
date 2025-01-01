@@ -64,4 +64,14 @@ export default [
     value: 'emq',
     icon: '/icons/sportief.svg',
   },
+  {
+    title: 'Moustache',
+    value: 'moustache',
+    icon: '/icons/sportief.svg',
+  },
+  {
+    title: 'Bimas',
+    value: 'bimas',
+    icon: '/icons/sportief.svg',
+  },
 ]

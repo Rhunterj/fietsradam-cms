@@ -81,6 +81,7 @@ export default {
         {
           type: 'object',
           fields: [
+            {type: 'string', name: 'name'},
             {type: 'string', name: 'link'},
             {type: 'image', name: 'image'},
           ],

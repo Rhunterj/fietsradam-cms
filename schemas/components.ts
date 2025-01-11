@@ -73,5 +73,19 @@ export default {
       type: 'image',
       title: 'Action Banner',
     },
+    {
+      name: 'brands',
+      type: 'array',
+      title: 'Brands',
+      of: [
+        {
+          type: 'object',
+          fields: [
+            {type: 'string', name: 'link'},
+            {type: 'image', name: 'image'},
+          ],
+        },
+      ],
+    },
   ],
 }

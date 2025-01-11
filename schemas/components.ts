@@ -74,7 +74,7 @@ export default {
       title: 'Action Banner',
     },
     {
-      name: 'brands',
+      name: 'brandsList',
       type: 'array',
       title: 'Brands',
       of: [
